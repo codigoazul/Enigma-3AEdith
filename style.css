@@ -8,7 +8,7 @@ body {
 /* Estilos para o cabeçalho */
 header {
     background-color: #05e6d7;
-    color: #fff;
+    color: #10ebeb;
     padding: 20px;
 }
 
@@ -42,13 +42,13 @@ header {
 
 /* Estilos para os títulos */
 h1, h2 {
-    color: #333;
+    color: #a16d6d;
 }
 
 /* Estilos para o rodapé */
 footer {
     background-color: #03f8db;
-    color: #fff;
+    color: #f60808;
     padding: 20px;
 }
 
