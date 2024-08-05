@@ -36,13 +36,13 @@ header {
 }
 
 .navbar-menu li a {
-    color: #000000;
+    color: #0024b5;
     text-decoration: none;
 }
 
 /* Estilos para os títulos */
 h1, h2 {
-    color: #0d09da;
+    color: #000000;
 }
 
 /* Estilos para o rodapé */
