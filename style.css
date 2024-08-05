@@ -42,7 +42,7 @@ header {
 
 /* Estilos para os títulos */
 h1, h2 {
-    color: #0090a0;
+    color: #000000;
 }
 
 /* Estilos para o rodapé */
@@ -76,6 +76,6 @@ footer {
 }
 
 .footer-social ul li a {
-    color: #000000;
+    color: #0021a7;
     text-decoration: none;
 }
