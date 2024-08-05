@@ -42,13 +42,13 @@ header {
 
 /* Estilos para os títulos */
 h1, h2 {
-    color: #635f5f;
+    color: #000000;
 }
 
 /* Estilos para o rodapé */
 footer {
     background-color: #0b9df1;
-    color: #4a4747;
+    color: #000000;
     padding: 20px;
 }
 
